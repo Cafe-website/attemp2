@@ -12,7 +12,7 @@
     padding: 10%;
     text-align: right;
     color: white;
-    font-family: 'Abril Fatface';
+    font-family: 'Abril Fatface', cursive;
     }
 /*this is the styling for the header text (Store name and subtitle).>*/
     h1{
@@ -27,6 +27,8 @@
     .opentime{
     text-align: center;
     line-height: 200%;
+    font-family: 'Bitter', serif;
+
 
     }
 /*this is the styling for the title "Open Time", font size and text decoration style can be edited>*/
@@ -39,7 +41,7 @@
     body {
     margin: 0;
     font-size: 28px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Bitter', serif;
     }
 
 /*The textboxes are the styling for the background colour in the body of each page, colour of the background can be changed with 'background-color', the size of the background is set to 'auto' as default>*/
